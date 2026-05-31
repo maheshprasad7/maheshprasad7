@@ -197,7 +197,6 @@ I'm a **1st-year CSE undergrad** at Vidyavardhaka College of Engineering, Mysuru
   <img alt="github-snake" src="https://raw.githubusercontent.com/maheshprasad7/maheshprasad7/output/github-snake-dark.svg" />
 </picture>
 
-> 💡 *Set up the [snake animation workflow](https://github.com/Platane/snk) to auto-generate this!*
 
 </div>
 
