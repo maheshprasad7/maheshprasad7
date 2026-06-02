@@ -25,7 +25,7 @@
 
 ## 👨‍💻 ABOUT ME
 
-> *"Why do we fall, sir? So that we can learn to pick ourselves up."*
+> *"Don't stop when you're tired. Stop when you're done." - David Goggins*
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
