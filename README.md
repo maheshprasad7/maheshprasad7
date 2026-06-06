@@ -67,7 +67,6 @@ I'm a **1st-year CSE undergrad** at Vidyavardhaka College of Engineering, Mysuru
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ShadCN](https://img.shields.io/badge/ShadCN/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 </details>
 
@@ -86,7 +85,6 @@ I'm a **1st-year CSE undergrad** at Vidyavardhaka College of Engineering, Mysuru
 <br/>
 
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-886FBF?style=for-the-badge&logo=google&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 </details>
@@ -108,7 +106,6 @@ I'm a **1st-year CSE undergrad** at Vidyavardhaka College of Engineering, Mysuru
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
 </details>
 
