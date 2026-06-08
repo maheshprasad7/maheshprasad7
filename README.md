@@ -225,6 +225,6 @@ I'm a **1st-year CSE undergrad** at Vidyavardhaka College of Engineering, Mysuru
 
 <br/>
 
-*— Mahesh Prasad · Built with ☕, 🔥 & passion for problem-solving*
+*— Mahesh Prasad · Crafted with ❤️ & Code*
 
 </div>
