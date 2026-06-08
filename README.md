@@ -12,7 +12,7 @@
 
 <!-- ═══════════════════════ SOCIAL BADGES ═══════════════════════ -->
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ff2d2d)](https://linkedin.com/in/mahesh-prasad-b-013aa0369)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a0a0a?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmMmQyZCI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B)](https://linkedin.com/in/mahesh-prasad-b-013aa0369)
 [![Instagram](https://img.shields.io/badge/-Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=ff6b6b)](https://instagram.com/_mahi.6207)
 [![Gmail](https://img.shields.io/badge/-Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ff2d2d)](mailto:maheshprasadb7@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ff6b6b)](https://github.com/maheshprasad7)
@@ -217,7 +217,7 @@ I'm a **1st-year CSE undergrad** at Vidyavardhaka College of Engineering, Mysuru
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ff2d2d)](https://linkedin.com/in/mahesh-prasad-b-013aa0369)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0a0a0a?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmMmQyZCI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B)](https://linkedin.com/in/mahesh-prasad-b-013aa0369)
 [![Email](https://img.shields.io/badge/Send_a_Message-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ff6b6b)](mailto:maheshprasadb7@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ff2d2d)](https://github.com/maheshprasad7)
 
